@@ -35,7 +35,7 @@ The Kinetic Thermocline Inverter (KTI) is a decentralized, zero-input mechanical
 
 ## 5. Hydrodynamic & Mass Balance Equations
 
-![Mass Balance Equations](kti_md_assets/image3.png)
+![Mass Balance Equations](kti_md_assets/equations.png)
 
 - Maximum displacement: **5155.75 kg**
 - Dry mass target: **2577 kg**
