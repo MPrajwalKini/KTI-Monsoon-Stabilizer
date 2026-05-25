@@ -5,7 +5,7 @@ The Kinetic Thermocline Inverter (KTI) is a decentralized, zero-input mechanical
 
 ## 2. Structural & Mechanical Blueprint
 
-![Structural Blueprint](kti_md_assets/structure.png)
+![Structural Blueprint](kti_md_assets/Structure.png)
 
 ### Surface Floating Hull
 - Outer Diameter: **2.80 m**
